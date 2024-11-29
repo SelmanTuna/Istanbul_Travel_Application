@@ -1,0 +1,33 @@
+D:\Selman\Selman's Project\ders-52(İstanbul Uygulaması1)\bin\Debug\ders-52(İstanbul Uygulaması1).exe.config
+D:\Selman\Selman's Project\ders-52(İstanbul Uygulaması1)\bin\Debug\ders-52(İstanbul Uygulaması1).exe
+D:\Selman\Selman's Project\ders-52(İstanbul Uygulaması1)\bin\Debug\ders-52(İstanbul Uygulaması1).pdb
+D:\Selman\Selman's Project\ders-52(İstanbul Uygulaması1)\bin\Debug\Interop.SHDocVw.dll
+D:\Selman\Selman's Project\ders-52(İstanbul Uygulaması1)\bin\Debug\Interop.WMPLib.dll
+D:\Selman\Selman's Project\ders-52(İstanbul Uygulaması1)\bin\Debug\AxInterop.SHDocVw.dll
+D:\Selman\Selman's Project\ders-52(İstanbul Uygulaması1)\bin\Debug\AxInterop.WMPLib.dll
+D:\Selman\Selman's Project\ders-52(İstanbul Uygulaması1)\obj\Debug\Istanbul Uygulamasi.csproj.AssemblyReference.cache
+D:\Selman\Selman's Project\ders-52(İstanbul Uygulaması1)\obj\Debug\Interop.SHDocVw.dll
+D:\Selman\Selman's Project\ders-52(İstanbul Uygulaması1)\obj\Debug\Interop.WMPLib.dll
+D:\Selman\Selman's Project\ders-52(İstanbul Uygulaması1)\obj\Debug\AxInterop.SHDocVw.dll
+D:\Selman\Selman's Project\ders-52(İstanbul Uygulaması1)\obj\Debug\AxInterop.WMPLib.dll
+D:\Selman\Selman's Project\ders-52(İstanbul Uygulaması1)\obj\Debug\Istanbul Uygulamasi.csproj.ResolveComReference.cache
+D:\Selman\Selman's Project\ders-52(İstanbul Uygulaması1)\obj\Debug\ders_52_İstanbul_Uygulaması1_.FrmAdalar.resources
+D:\Selman\Selman's Project\ders-52(İstanbul Uygulaması1)\obj\Debug\ders_52_İstanbul_Uygulaması1_.FrmAnaSayfa.resources
+D:\Selman\Selman's Project\ders-52(İstanbul Uygulaması1)\obj\Debug\ders_52_İstanbul_Uygulaması1_.FrmAvm.resources
+D:\Selman\Selman's Project\ders-52(İstanbul Uygulaması1)\obj\Debug\ders_52_İstanbul_Uygulaması1_.FrmCamiler.resources
+D:\Selman\Selman's Project\ders-52(İstanbul Uygulaması1)\obj\Debug\ders_52_İstanbul_Uygulaması1_.FrmCarsılar.resources
+D:\Selman\Selman's Project\ders-52(İstanbul Uygulaması1)\obj\Debug\ders_52_İstanbul_Uygulaması1_.FrmFotograf.resources
+D:\Selman\Selman's Project\ders-52(İstanbul Uygulaması1)\obj\Debug\ders_52_İstanbul_Uygulaması1_.FrmHarita.resources
+D:\Selman\Selman's Project\ders-52(İstanbul Uygulaması1)\obj\Debug\ders_52_İstanbul_Uygulaması1_.FrmKamera.resources
+D:\Selman\Selman's Project\ders-52(İstanbul Uygulaması1)\obj\Debug\ders_52_İstanbul_Uygulaması1_.FrmKorular.resources
+D:\Selman\Selman's Project\ders-52(İstanbul Uygulaması1)\obj\Debug\ders_52_İstanbul_Uygulaması1_.FrmKöprüler.resources
+D:\Selman\Selman's Project\ders-52(İstanbul Uygulaması1)\obj\Debug\ders_52_İstanbul_Uygulaması1_.FrmMetro.resources
+D:\Selman\Selman's Project\ders-52(İstanbul Uygulaması1)\obj\Debug\ders_52_İstanbul_Uygulaması1_.FrmMetrobüs.resources
+D:\Selman\Selman's Project\ders-52(İstanbul Uygulaması1)\obj\Debug\ders_52_İstanbul_Uygulaması1_.FrmMuzeler.resources
+D:\Selman\Selman's Project\ders-52(İstanbul Uygulaması1)\obj\Debug\ders_52_İstanbul_Uygulaması1_.FrmNeAlınır.resources
+D:\Selman\Selman's Project\ders-52(İstanbul Uygulaması1)\obj\Debug\ders_52_İstanbul_Uygulaması1_.FrmNeYenir.resources
+D:\Selman\Selman's Project\ders-52(İstanbul Uygulaması1)\obj\Debug\ders_52_İstanbul_Uygulaması1_.Properties.Resources.resources
+D:\Selman\Selman's Project\ders-52(İstanbul Uygulaması1)\obj\Debug\Istanbul Uygulamasi.csproj.GenerateResource.cache
+D:\Selman\Selman's Project\ders-52(İstanbul Uygulaması1)\obj\Debug\Istanbul Uygulamasi.csproj.CoreCompileInputs.cache
+D:\Selman\Selman's Project\ders-52(İstanbul Uygulaması1)\obj\Debug\ders-52(İstanbul Uygulaması1).exe
+D:\Selman\Selman's Project\ders-52(İstanbul Uygulaması1)\obj\Debug\ders-52(İstanbul Uygulaması1).pdb

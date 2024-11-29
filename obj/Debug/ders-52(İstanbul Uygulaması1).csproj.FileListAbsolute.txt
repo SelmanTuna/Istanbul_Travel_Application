@@ -1,0 +1,67 @@
+C:\Users\sumey\Documents\Visual Studio 2022\Selman's Project\C# FORM DERSLERİ\ders-52(İstanbul Uygulaması1)\bin\Debug\ders-52(İstanbul Uygulaması1).exe.config
+C:\Users\sumey\Documents\Visual Studio 2022\Selman's Project\C# FORM DERSLERİ\ders-52(İstanbul Uygulaması1)\bin\Debug\ders-52(İstanbul Uygulaması1).exe
+C:\Users\sumey\Documents\Visual Studio 2022\Selman's Project\C# FORM DERSLERİ\ders-52(İstanbul Uygulaması1)\bin\Debug\ders-52(İstanbul Uygulaması1).pdb
+C:\Users\sumey\Documents\Visual Studio 2022\Selman's Project\C# FORM DERSLERİ\ders-52(İstanbul Uygulaması1)\obj\Debug\ders-52(İstanbul Uygulaması1).csproj.AssemblyReference.cache
+C:\Users\sumey\Documents\Visual Studio 2022\Selman's Project\C# FORM DERSLERİ\ders-52(İstanbul Uygulaması1)\obj\Debug\ders-52(İstanbul Uygulaması1).csproj.SuggestedBindingRedirects.cache
+C:\Users\sumey\Documents\Visual Studio 2022\Selman's Project\C# FORM DERSLERİ\ders-52(İstanbul Uygulaması1)\obj\Debug\ders_52_İstanbul_Uygulaması1_.FrmAnaSayfa.resources
+C:\Users\sumey\Documents\Visual Studio 2022\Selman's Project\C# FORM DERSLERİ\ders-52(İstanbul Uygulaması1)\obj\Debug\ders_52_İstanbul_Uygulaması1_.Properties.Resources.resources
+C:\Users\sumey\Documents\Visual Studio 2022\Selman's Project\C# FORM DERSLERİ\ders-52(İstanbul Uygulaması1)\obj\Debug\ders-52(İstanbul Uygulaması1).csproj.GenerateResource.cache
+C:\Users\sumey\Documents\Visual Studio 2022\Selman's Project\C# FORM DERSLERİ\ders-52(İstanbul Uygulaması1)\obj\Debug\ders-52(İstanbul Uygulaması1).csproj.CoreCompileInputs.cache
+C:\Users\sumey\Documents\Visual Studio 2022\Selman's Project\C# FORM DERSLERİ\ders-52(İstanbul Uygulaması1)\obj\Debug\ders-52(İstanbul Uygulaması1).exe
+C:\Users\sumey\Documents\Visual Studio 2022\Selman's Project\C# FORM DERSLERİ\ders-52(İstanbul Uygulaması1)\obj\Debug\ders-52(İstanbul Uygulaması1).pdb
+C:\Users\sumey\Documents\Visual Studio 2022\Selman's Project\C# FORM DERSLERİ\ders-52(İstanbul Uygulaması1)\obj\Debug\ders_52_İstanbul_Uygulaması1_.FrmCamiler.resources
+C:\Users\sumey\Documents\Visual Studio 2022\Selman's Project\C# FORM DERSLERİ\ders-52(İstanbul Uygulaması1)\obj\Debug\ders_52_İstanbul_Uygulaması1_.FrmHarita.resources
+C:\Users\sumey\Documents\Visual Studio 2022\Selman's Project\C# FORM DERSLERİ\ders-52(İstanbul Uygulaması1)\bin\Debug\Interop.SHDocVw.dll
+C:\Users\sumey\Documents\Visual Studio 2022\Selman's Project\C# FORM DERSLERİ\ders-52(İstanbul Uygulaması1)\bin\Debug\AxInterop.SHDocVw.dll
+C:\Users\sumey\Documents\Visual Studio 2022\Selman's Project\C# FORM DERSLERİ\ders-52(İstanbul Uygulaması1)\obj\Debug\Interop.SHDocVw.dll
+C:\Users\sumey\Documents\Visual Studio 2022\Selman's Project\C# FORM DERSLERİ\ders-52(İstanbul Uygulaması1)\obj\Debug\AxInterop.SHDocVw.dll
+C:\Users\sumey\Documents\Visual Studio 2022\Selman's Project\C# FORM DERSLERİ\ders-52(İstanbul Uygulaması1)\obj\Debug\ders-52(İstanbul Uygulaması1).csproj.ResolveComReference.cache
+C:\Users\sumey\Documents\Visual Studio 2022\Selman's Project\C# FORM DERSLERİ\ders-52(İstanbul Uygulaması1)\obj\Debug\ders_52_İstanbul_Uygulaması1_.FrmKamera.resources
+C:\Users\sumey\Documents\Visual Studio 2022\Selman's Project\C# FORM DERSLERİ\ders-52(İstanbul Uygulaması1)\obj\Debug\ders_52_İstanbul_Uygulaması1_.FrmMetro.resources
+C:\Users\sumey\Documents\Visual Studio 2022\Selman's Project\C# FORM DERSLERİ\ders-52(İstanbul Uygulaması1)\obj\Debug\ders_52_İstanbul_Uygulaması1_.FrmMetrobüs.resources
+C:\Users\sumey\Documents\Visual Studio 2022\Selman's Project\C# FORM DERSLERİ\ders-52(İstanbul Uygulaması1)\obj\Debug\ders_52_İstanbul_Uygulaması1_.FrmNeAlınır.resources
+C:\Users\sumey\Documents\Visual Studio 2022\Selman's Project\C# FORM DERSLERİ\ders-52(İstanbul Uygulaması1)\obj\Debug\ders_52_İstanbul_Uygulaması1_.FrmNeYenir.resources
+C:\Users\sumey\Documents\Visual Studio 2022\Selman's Project\C# FORM DERSLERİ\ders-52(İstanbul Uygulaması1)\obj\Debug\ders_52_İstanbul_Uygulaması1_.FrmKöprüler.resources
+C:\Users\sumey\Documents\Visual Studio 2022\Selman's Project\C# FORM DERSLERİ\ders-52(İstanbul Uygulaması1)\obj\Debug\ders_52_İstanbul_Uygulaması1_.FrmMuzeler.resources
+C:\Users\sumey\Documents\Visual Studio 2022\Selman's Project\C# FORM DERSLERİ\ders-52(İstanbul Uygulaması1)\obj\Debug\ders_52_İstanbul_Uygulaması1_.FrmKorular.resources
+C:\Users\sumey\Documents\Visual Studio 2022\Selman's Project\C# FORM DERSLERİ\ders-52(İstanbul Uygulaması1)\obj\Debug\ders_52_İstanbul_Uygulaması1_.FrmCarsılar.resources
+C:\Users\sumey\Documents\Visual Studio 2022\Selman's Project\C# FORM DERSLERİ\ders-52(İstanbul Uygulaması1)\obj\Debug\ders_52_İstanbul_Uygulaması1_.FrmAvm.resources
+C:\Users\sumey\Documents\Visual Studio 2022\Selman's Project\C# FORM DERSLERİ\ders-52(İstanbul Uygulaması1)\obj\Debug\ders_52_İstanbul_Uygulaması1_.FrmAdalar.resources
+C:\Users\sumey\Documents\Visual Studio 2022\Selman's Project\C# FORM DERSLERİ\ders-52(İstanbul Uygulaması1)\obj\Debug\ders_52_İstanbul_Uygulaması1_.FrmFotograf.resources
+C:\Users\sumey\Documents\Visual Studio 2022\Selman's Project\C# FORM DERSLERİ\ders-52(İstanbul Uygulaması1)\bin\Debug\Interop.WMPLib.dll
+C:\Users\sumey\Documents\Visual Studio 2022\Selman's Project\C# FORM DERSLERİ\ders-52(İstanbul Uygulaması1)\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\sumey\Documents\Visual Studio 2022\Selman's Project\C# FORM DERSLERİ\ders-52(İstanbul Uygulaması1)\obj\Debug\Interop.WMPLib.dll
+C:\Users\sumey\Documents\Visual Studio 2022\Selman's Project\C# FORM DERSLERİ\ders-52(İstanbul Uygulaması1)\obj\Debug\AxInterop.WMPLib.dll
+D:\Selman\Selman's Project\C# FORM DERSLERİ\ders-52(İstanbul Uygulaması1)\bin\Debug\ders-52(İstanbul Uygulaması1).exe.config
+D:\Selman\Selman's Project\C# FORM DERSLERİ\ders-52(İstanbul Uygulaması1)\bin\Debug\ders-52(İstanbul Uygulaması1).exe
+D:\Selman\Selman's Project\C# FORM DERSLERİ\ders-52(İstanbul Uygulaması1)\bin\Debug\ders-52(İstanbul Uygulaması1).pdb
+D:\Selman\Selman's Project\C# FORM DERSLERİ\ders-52(İstanbul Uygulaması1)\bin\Debug\Interop.SHDocVw.dll
+D:\Selman\Selman's Project\C# FORM DERSLERİ\ders-52(İstanbul Uygulaması1)\bin\Debug\Interop.WMPLib.dll
+D:\Selman\Selman's Project\C# FORM DERSLERİ\ders-52(İstanbul Uygulaması1)\bin\Debug\AxInterop.SHDocVw.dll
+D:\Selman\Selman's Project\C# FORM DERSLERİ\ders-52(İstanbul Uygulaması1)\bin\Debug\AxInterop.WMPLib.dll
+D:\Selman\Selman's Project\C# FORM DERSLERİ\ders-52(İstanbul Uygulaması1)\obj\Debug\ders-52(İstanbul Uygulaması1).csproj.AssemblyReference.cache
+D:\Selman\Selman's Project\C# FORM DERSLERİ\ders-52(İstanbul Uygulaması1)\obj\Debug\Interop.SHDocVw.dll
+D:\Selman\Selman's Project\C# FORM DERSLERİ\ders-52(İstanbul Uygulaması1)\obj\Debug\Interop.WMPLib.dll
+D:\Selman\Selman's Project\C# FORM DERSLERİ\ders-52(İstanbul Uygulaması1)\obj\Debug\AxInterop.SHDocVw.dll
+D:\Selman\Selman's Project\C# FORM DERSLERİ\ders-52(İstanbul Uygulaması1)\obj\Debug\AxInterop.WMPLib.dll
+D:\Selman\Selman's Project\C# FORM DERSLERİ\ders-52(İstanbul Uygulaması1)\obj\Debug\ders-52(İstanbul Uygulaması1).csproj.ResolveComReference.cache
+D:\Selman\Selman's Project\C# FORM DERSLERİ\ders-52(İstanbul Uygulaması1)\obj\Debug\ders_52_İstanbul_Uygulaması1_.FrmAdalar.resources
+D:\Selman\Selman's Project\C# FORM DERSLERİ\ders-52(İstanbul Uygulaması1)\obj\Debug\ders_52_İstanbul_Uygulaması1_.FrmAnaSayfa.resources
+D:\Selman\Selman's Project\C# FORM DERSLERİ\ders-52(İstanbul Uygulaması1)\obj\Debug\ders_52_İstanbul_Uygulaması1_.FrmAvm.resources
+D:\Selman\Selman's Project\C# FORM DERSLERİ\ders-52(İstanbul Uygulaması1)\obj\Debug\ders_52_İstanbul_Uygulaması1_.FrmCamiler.resources
+D:\Selman\Selman's Project\C# FORM DERSLERİ\ders-52(İstanbul Uygulaması1)\obj\Debug\ders_52_İstanbul_Uygulaması1_.FrmCarsılar.resources
+D:\Selman\Selman's Project\C# FORM DERSLERİ\ders-52(İstanbul Uygulaması1)\obj\Debug\ders_52_İstanbul_Uygulaması1_.FrmFotograf.resources
+D:\Selman\Selman's Project\C# FORM DERSLERİ\ders-52(İstanbul Uygulaması1)\obj\Debug\ders_52_İstanbul_Uygulaması1_.FrmHarita.resources
+D:\Selman\Selman's Project\C# FORM DERSLERİ\ders-52(İstanbul Uygulaması1)\obj\Debug\ders_52_İstanbul_Uygulaması1_.FrmKamera.resources
+D:\Selman\Selman's Project\C# FORM DERSLERİ\ders-52(İstanbul Uygulaması1)\obj\Debug\ders_52_İstanbul_Uygulaması1_.FrmKorular.resources
+D:\Selman\Selman's Project\C# FORM DERSLERİ\ders-52(İstanbul Uygulaması1)\obj\Debug\ders_52_İstanbul_Uygulaması1_.FrmKöprüler.resources
+D:\Selman\Selman's Project\C# FORM DERSLERİ\ders-52(İstanbul Uygulaması1)\obj\Debug\ders_52_İstanbul_Uygulaması1_.FrmMetro.resources
+D:\Selman\Selman's Project\C# FORM DERSLERİ\ders-52(İstanbul Uygulaması1)\obj\Debug\ders_52_İstanbul_Uygulaması1_.FrmMetrobüs.resources
+D:\Selman\Selman's Project\C# FORM DERSLERİ\ders-52(İstanbul Uygulaması1)\obj\Debug\ders_52_İstanbul_Uygulaması1_.FrmMuzeler.resources
+D:\Selman\Selman's Project\C# FORM DERSLERİ\ders-52(İstanbul Uygulaması1)\obj\Debug\ders_52_İstanbul_Uygulaması1_.FrmNeAlınır.resources
+D:\Selman\Selman's Project\C# FORM DERSLERİ\ders-52(İstanbul Uygulaması1)\obj\Debug\ders_52_İstanbul_Uygulaması1_.FrmNeYenir.resources
+D:\Selman\Selman's Project\C# FORM DERSLERİ\ders-52(İstanbul Uygulaması1)\obj\Debug\ders_52_İstanbul_Uygulaması1_.Properties.Resources.resources
+D:\Selman\Selman's Project\C# FORM DERSLERİ\ders-52(İstanbul Uygulaması1)\obj\Debug\ders-52(İstanbul Uygulaması1).csproj.GenerateResource.cache
+D:\Selman\Selman's Project\C# FORM DERSLERİ\ders-52(İstanbul Uygulaması1)\obj\Debug\ders-52(İstanbul Uygulaması1).csproj.CoreCompileInputs.cache
+D:\Selman\Selman's Project\C# FORM DERSLERİ\ders-52(İstanbul Uygulaması1)\obj\Debug\ders-52(İstanbul Uygulaması1).exe
+D:\Selman\Selman's Project\C# FORM DERSLERİ\ders-52(İstanbul Uygulaması1)\obj\Debug\ders-52(İstanbul Uygulaması1).pdb

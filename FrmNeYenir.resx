@@ -1,0 +1,175 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="richTextBox1.Text" xml:space="preserve">
+    <value>
+İstanbul, hem geleneksel hem de sıra dışı yiyecekleri seven kişiler için oldukça uygun bir şehirdir. İstanbul ilinde farklı yiyecekleri tatma imkanınız bulunmaktadır.
+
+İstanbul ilinde tüm dünya mutfağından tadabileceğiniz birçok lezzetli yiyecek bulunmaktadır. Bu yazımızda, İstanbul’da yiyebileceğiniz en iyi 50 yiyecekten bahsedeceğiz. İstanbul’da ne yenir sorusunun cevabını bu yazıda bulabilirsiniz. 
+
+Canınız ister karadeniz pide ister ıslak hamburger veya turşu suyu gibi farklı lezzetler çektiğinde öğle yemeği ve akşam yemeğini bu özel restoranlarda yiyebilirsiniz. Çeşit çeşit güzel lezzetleri ile istanbul u gezdikten sonra nerede ne yenir bu yazı ile öğrenebilirsiniz. 
+
+Her köşesi ayrı güzel İstanbul’da ara sıcaklardan ana öğünlere kadar birçok lezzete ev sahipliği yapan yer alıyorsa bu lezzetleri mutlaka tatmalısınız. Yemek kültürü zevkinizi değiştirebilirsiniz. Bundan sonra i̇stanbul da ne yenir bileceksiniz. 
+
+
+1. Şöbiyet
+İstanbulda ne yenir önerilerinin başında tatlılar gelmektedir. İstanbul’da birbirinden lezzetli tatlılar bulunmaktadır. Şöbiyet, bu öneri listesinin başında yer almaktadır.
+
+İstanbul’da en gözde tatlılar arasında yer alan şöbiyet için en çok tercih edilen yerlerin başında Gaziburma’dır.
+
+2. Cheesecake
+Cheesecake, tüm dünyada ünlü olduğu gibi ülkemizde de sevilen tatlılar arasındadır. Özellikle, San Sebastian Cheesecake tatlısı başlıca sırada yer almaktadır. İstanbulda ne yenir sıralamasında denemeniz gereken tatlılar arasındadır.
+
+3. Tiramisu
+İtalyan mutfağının vazgeçilmez lezzetleri arasında gelen tiramisu, İstanbul’da da tadılması gereken lezzetlerdendir. İstanbul’un pek çok restoranında lezzetli tiramisu yeme imkanı bulunmaktadır.
+
+4. Kazandibi
+Kazandibi, İstanbulda ne yenir listesinde ön sıralarda yer alan tatlılar arasında yer almaktadır. Her öğün yenilebilecek olan kazandibi, Türk mutfağının en önemli lezzetlerindendir. Kazandibi, özellikle İstanbul’un Emirgan ilçesinde tadılmalıdır.
+
+5.Asuman Tatlısı
+Asuman tatlısı, İstanbul ile özdeşleşmiş olan lezzetlerden bir tanesidir. İstanbulda ne yenir listesinin başında gelen bu tatlı özellikle yabancıların favorileri arasında yer almaktadır.
+
+Asuman tatlısı, İstanbul ilinin Moda ilçesinde başlıca yenmesi gereken lezzetli tatlar arasında yer almaktadır. 
+
+6. İzmir Lokması
+Lokma tatlısı, İzmir’in sokak lezzetleri arasında yer alsa da İstanbul’da da lezzetli bir şekilde yapılmaktadır. Geleneksel tatlar arasında yer alan lokma, İstanbulda ne yenir listesinin başında yer almaktadır.
+
+7. Pancar Burger
+Pancar Burger, hem sebze hem de hamburger severler için ilk sırada yer alan bir tattır. İstanbulda ne yenir listesi içerisinde yer alan bu lezzet, oldukça sıra dışıdır. Renkli beslenmeye özen gösteren kişilerin tercih etmesi gereken yiyeceklerdendir.
+
+ 8. Levrek
+Levrek, deniz ürünü seven kişilerin mutlaka tatması gereken lezzetler arasında yer almaktadır. İstanbulda ne yenir listesinde olması gereken tatlar arasındadır. 
+
+Levrek, İstanbul ilinde pek çok restoranda kaliteli ve lezzetli bir şekilde pişirilebilen bir yiyecektir. Yerli ve yabancı ziyaretçilerin tatması gerekmektedir.
+
+9. Biryani
+Biryani, gözde bir Hint yemeğidir. Biryani, her ilde var olabilen ve farklı pişirilen lezzetler arasında yer almaktadır. İstanbulda ne yenir listesinde olan bir yemektir. 
+
+Biryani, İstanbul’un Taksim ilçesinde yemeniz gereken tatlar arasındadır. Biryani yemeğini yiyebileceğiniz birçok restoran bulunmaktadır.
+
+10. Boşnak Mantısı
+İstanbulda ne yenir listesinde yer alan yiyecekler arasında yer alan Boşnak Mantısı, lezzeti ile damakta tadını bırakan yemeklerdendir. En lezzetli Boşnak Mantısı için Tuzla Marina ilçesini seçebilirsiniz.
+
+
+
+
+
+</value>
+  </data>
+</root>
